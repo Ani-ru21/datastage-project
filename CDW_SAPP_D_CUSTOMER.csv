@@ -1,0 +1,41 @@
+CUST_ID,CUST_F_NAME,CUST_M_NAME,CUST_L_NAME,CUST_CC_NO,CUST_SSN,CUST_STREET,CUST_CITY,CUST_STATE,CUST_COUNTRY,CUST_ZIP,CUST_PHONE,CUST_EMAIL
+1,Aryan,Singh,Verma,4713-1688-3309-2421,591-16-4608,51 MG Road,Lucknow,Uttar Pradesh,INDIA,549408,6589641630,aryan.verma1@example.com
+2,Aditi,,Gupta,5251-5319-6783-9886,326-33-7567,5 Gandhi Marg,Chandigarh,Punjab,INDIA,874180,8976984384,aditi.gupta2@example.com
+3,Rohan,,Jain,4049-7425-2176-8312,731-81-5494,9 Gandhi Marg,Chandigarh,Punjab,INDIA,897272,6278903709,rohan.jain3@example.com
+4,Meena,,Jain,5434-9244-3383-4325,470-21-7858,67 Anna Salai,Chandigarh,Punjab,INDIA,802358,6066379218,meena.jain4@example.com
+5,Ishan,,Khan,5619-4454-6615-9941,734-25-9986,80 MG Road,Jaipur,Rajasthan,INDIA,323052,7653825380,ishan.khan5@example.com
+6,Rohan,,Tiwari,4392-7998-9720-5587,731-45-3439,93 Anna Salai,Bengaluru,Karnataka,INDIA,296941,9794300584,rohan.tiwari6@example.com
+7,Ishan,,Reddy,5740-6361-3997-3889,825-69-9294,31 Gandhi Marg,Delhi,Delhi,INDIA,672430,8797069646,ishan.reddy7@example.com
+8,Rahul,,Mehta,4174-3337-8288-7689,242-94-9001,82 Gandhi Marg,Chennai,Tamil Nadu,INDIA,506023,6724252083,rahul.mehta8@example.com
+9,Sanjay,,Dubey,5218-2917-2089-5213,279-18-4877,32 Gandhi Marg,Hyderabad,Telangana,INDIA,948670,9785616765,sanjay.dubey9@example.com
+10,Kabir,,Chauhan,4259-9554-7078-6179,298-75-6844,58 Gandhi Marg,Lucknow,Uttar Pradesh,INDIA,327046,8498368705,kabir.chauhan10@example.com
+11,Sanjay,Kumar,Dubey,5166-6438-7331-2102,933-70-9396,13 Anna Salai,Pune,Maharashtra,INDIA,925919,6542409654,sanjay.dubey11@example.com
+12,Anaya,,Reddy,4685-5050-2949-9890,299-43-4741,23 Anna Salai,Lucknow,Uttar Pradesh,INDIA,353285,9299442486,anaya.reddy12@example.com
+13,Pooja,Rao,Patel,4620-6298-9668-4847,891-85-5245,90 MG Road,Chennai,Tamil Nadu,INDIA,327740,9028356671,pooja.patel13@example.com
+14,Aryan,,Saha,5228-5203-1096-2260,734-18-7464,88 MG Road,Hyderabad,Telangana,INDIA,437559,9800695448,aryan.saha14@example.com
+15,Rohan,Kumar,Goswami,4276-4596-9633-9570,641-51-5545,46 Gandhi Marg,Bhopal,Madhya Pradesh,INDIA,948625,6918354966,rohan.goswami15@example.com
+16,Aryan,,Reddy,5438-9042-9882-2704,573-94-1864,21 Anna Salai,Pune,Maharashtra,INDIA,313256,9118920210,aryan.reddy16@example.com
+17,Vivaan,,Mehta,5786-5888-9981-2402,624-36-3384,2 Park Street,Mumbai,Maharashtra,INDIA,362172,8925524227,vivaan.mehta17@example.com
+18,Reyansh,,Yadav,4360-9579-1247-6499,461-82-6141,6 Gandhi Marg,Chandigarh,Punjab,INDIA,279555,8368373461,reyansh.yadav18@example.com
+19,Neha,,Patel,4336-2605-2257-4847,758-61-9941,28 Anna Salai,Lucknow,Uttar Pradesh,INDIA,934363,6743915242,neha.patel19@example.com
+20,Rajesh,,Reddy,5559-8963-8601-6164,481-57-5386,74 MG Road,Mumbai,Maharashtra,INDIA,934153,8553488730,rajesh.reddy20@example.com
+21,Advik,,Naidu,5300-8184-4306-4565,585-58-3198,23 Gandhi Marg,Kolkata,West Bengal,INDIA,899964,8399617474,advik.naidu21@example.com
+22,Rajesh,Rao,Saha,4233-3299-7864-9476,901-57-1890,26 Indira Nagar Road,Kolkata,West Bengal,INDIA,527630,8200484099,rajesh.saha22@example.com
+23,Vivaan,Singh,Khan,5393-3196-6827-4442,975-56-3188,24 Gandhi Marg,Bengaluru,Karnataka,INDIA,977955,7377720848,vivaan.khan23@example.com
+24,Diya,,Yadav,4049-4817-5506-6811,510-84-7929,95 Park Street,Jaipur,Rajasthan,INDIA,622456,6447183944,diya.yadav24@example.com
+25,Sneha,Devi,Sharma,5131-8902-1536-5426,495-52-3530,83 Park Street,Kolkata,West Bengal,INDIA,768770,6600417112,sneha.sharma25@example.com
+26,Aryan,,Chauhan,5655-4624-4801-4639,601-72-3299,26 Anna Salai,Kolkata,West Bengal,INDIA,537272,9250666090,aryan.chauhan26@example.com
+27,Aryan,Kumar,Chauhan,5494-6640-8157-8650,340-43-3938,22 MG Road,Mumbai,Maharashtra,INDIA,502900,7808874382,aryan.chauhan27@example.com
+28,Anaya,,Singh,4366-4762-5840-1276,767-26-7789,81 MG Road,Delhi,Delhi,INDIA,747878,9438469759,anaya.singh28@example.com
+29,Aryan,,Saha,5113-3622-2322-9720,877-60-3381,15 Park Street,Jaipur,Rajasthan,INDIA,926632,8293064564,aryan.saha29@example.com
+30,Rajesh,,Yadav,4667-4972-9540-4022,468-23-3598,6 Indira Nagar Road,Chandigarh,Punjab,INDIA,636833,6075590580,rajesh.yadav30@example.com
+31,Aryan,,Shah,4673-6662-4959-7738,895-58-1979,22 Indira Nagar Road,Delhi,Delhi,INDIA,850634,6481580467,aryan.shah31@example.com
+32,Zara,,Dubey,5900-1710-2961-3075,698-34-6098,35 Indira Nagar Road,Jaipur,Rajasthan,INDIA,303238,7372438159,zara.dubey32@example.com
+33,Pooja,,Dubey,5950-6241-6175-5830,851-66-6199,19 Indira Nagar Road,Chandigarh,Punjab,INDIA,698586,7490961252,pooja.dubey33@example.com
+34,Sneha,,Shah,4818-8684-4912-5175,814-45-2843,64 Anna Salai,Ahmedabad,Gujarat,INDIA,732656,8427559326,sneha.shah34@example.com
+35,Kiara,Kumar,Naidu,5745-4405-3950-3472,645-61-5209,6 Gandhi Marg,Ahmedabad,Gujarat,INDIA,231350,7883512683,kiara.naidu35@example.com
+36,Vikram,,Pillai,4159-1317-3665-4809,305-89-4303,82 Indira Nagar Road,Bengaluru,Karnataka,INDIA,615849,9370799682,vikram.pillai36@example.com
+37,Ishan,,Singh,4862-2649-4500-9855,870-31-1580,64 Park Street,Ahmedabad,Gujarat,INDIA,384936,8954956331,ishan.singh37@example.com
+38,Meena,Kumar,Mehta,5964-5270-2972-1374,483-10-4262,53 MG Road,Bhopal,Madhya Pradesh,INDIA,524847,7739223680,meena.mehta38@example.com
+39,Rahul,,Rao,4115-6764-7872-8568,393-30-8338,79 MG Road,Chennai,Tamil Nadu,INDIA,264503,6308177080,rahul.rao39@example.com
+40,Kiara,,Das,4031-3670-6259-5391,792-68-1347,93 Indira Nagar Road,Kolkata,West Bengal,INDIA,569215,8745560265,kiara.das40@example.com

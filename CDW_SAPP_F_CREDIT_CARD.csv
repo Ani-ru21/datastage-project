@@ -1,0 +1,101 @@
+CUST_CC_NO,TIMEID,CUST_SSN,CUST_F_NAME,CUST_M_NAME,CUST_L_NAME,BRANCH_CODE,BRANCH_NAME,TRANSACTION_TYPE,TRANSACTION_VALUE
+5113-3622-2322-9720,20240107,877-60-3381,Aryan,,Saha,BR002,City Bank Pune Branch,Refund,-32.38
+5228-5203-1096-2260,20240110,734-18-7464,Aryan,,Saha,BR005,City Bank Chandigarh Branch,Payment,4982.95
+4667-4972-9540-4022,20240202,468-23-3598,Rajesh,,Yadav,BR004,City Bank Lucknow Branch,Payment,4459.32
+4673-6662-4959-7738,20240208,895-58-1979,Aryan,,Shah,BR002,City Bank Pune Branch,Payment,3982.33
+5113-3622-2322-9720,20240212,877-60-3381,Aryan,,Saha,BR002,City Bank Pune Branch,Purchase,8576.63
+5655-4624-4801-4639,20240207,601-72-3299,Aryan,,Chauhan,BR003,City Bank Kolkata Branch,Payment,2508.25
+5964-5270-2972-1374,20240103,483-10-4262,Meena,Kumar,Mehta,BR004,City Bank Lucknow Branch,Purchase,8665.21
+4159-1317-3665-4809,20240302,305-89-4303,Vikram,,Pillai,BR003,City Bank Kolkata Branch,Cash Advance,3036.78
+4259-9554-7078-6179,20240310,298-75-6844,Kabir,,Chauhan,BR003,City Bank Kolkata Branch,Cash Advance,9020.69
+4259-9554-7078-6179,20240217,298-75-6844,Kabir,,Chauhan,BR002,City Bank Pune Branch,Purchase,5298.97
+5964-5270-2972-1374,20240222,483-10-4262,Meena,Kumar,Mehta,BR005,City Bank Chandigarh Branch,Purchase,8356.13
+5950-6241-6175-5830,20240317,851-66-6199,Pooja,,Dubey,BR001,City Bank Ahmedabad Branch,Payment,3472.08
+5251-5319-6783-9886,20240125,326-33-7567,Aditi,,Gupta,BR005,City Bank Chandigarh Branch,Cash Advance,5993.64
+4049-7425-2176-8312,20240319,731-81-5494,Rohan,,Jain,BR005,City Bank Chandigarh Branch,Cash Advance,4139.37
+5228-5203-1096-2260,20240225,734-18-7464,Aryan,,Saha,BR005,City Bank Chandigarh Branch,Purchase,3085.68
+4049-4817-5506-6811,20240314,510-84-7929,Diya,,Yadav,BR004,City Bank Lucknow Branch,Payment,4161.22
+5438-9042-9882-2704,20240307,573-94-1864,Aryan,,Reddy,BR002,City Bank Pune Branch,Payment,2821.58
+5434-9244-3383-4325,20240228,470-21-7858,Meena,,Jain,BR001,City Bank Ahmedabad Branch,Refund,-34.37
+4049-4817-5506-6811,20240128,510-84-7929,Diya,,Yadav,BR001,City Bank Ahmedabad Branch,Cash Advance,1746.81
+4276-4596-9633-9570,20240325,641-51-5545,Rohan,Kumar,Goswami,BR004,City Bank Lucknow Branch,Purchase,8076.64
+4115-6764-7872-8568,20240108,393-30-8338,Rahul,,Rao,BR002,City Bank Pune Branch,Purchase,588.62
+5166-6438-7331-2102,20240331,933-70-9396,Sanjay,Kumar,Dubey,BR001,City Bank Ahmedabad Branch,Cash Advance,3476.6
+4673-6662-4959-7738,20240103,895-58-1979,Aryan,,Shah,BR004,City Bank Lucknow Branch,Refund,-72.29
+5900-1710-2961-3075,20240131,698-34-6098,Zara,,Dubey,BR004,City Bank Lucknow Branch,Purchase,1540.4
+5786-5888-9981-2402,20240128,624-36-3384,Vivaan,,Mehta,BR001,City Bank Ahmedabad Branch,Purchase,4116.97
+4713-1688-3309-2421,20240227,591-16-4608,Aryan,Singh,Verma,BR004,City Bank Lucknow Branch,Refund,-32.17
+4685-5050-2949-9890,20240107,299-43-4741,Anaya,,Reddy,BR003,City Bank Kolkata Branch,Cash Advance,1083.25
+5228-5203-1096-2260,20240110,734-18-7464,Aryan,,Saha,BR004,City Bank Lucknow Branch,Cash Advance,6563.91
+4673-6662-4959-7738,20240317,895-58-1979,Aryan,,Shah,BR001,City Bank Ahmedabad Branch,Purchase,7567.15
+4685-5050-2949-9890,20240315,299-43-4741,Anaya,,Reddy,BR003,City Bank Kolkata Branch,Refund,-24.52
+5218-2917-2089-5213,20240202,279-18-4877,Sanjay,,Dubey,BR002,City Bank Pune Branch,Purchase,3011.57
+5900-1710-2961-3075,20240304,698-34-6098,Zara,,Dubey,BR003,City Bank Kolkata Branch,Payment,3894.63
+5745-4405-3950-3472,20240309,645-61-5209,Kiara,Kumar,Naidu,BR001,City Bank Ahmedabad Branch,Cash Advance,200.68
+5740-6361-3997-3889,20240317,825-69-9294,Ishan,,Reddy,BR002,City Bank Pune Branch,Refund,-49.22
+5900-1710-2961-3075,20240104,698-34-6098,Zara,,Dubey,BR002,City Bank Pune Branch,Refund,-39.11
+5131-8902-1536-5426,20240202,495-52-3530,Sneha,Devi,Sharma,BR004,City Bank Lucknow Branch,Payment,2045.05
+4159-1317-3665-4809,20240128,305-89-4303,Vikram,,Pillai,BR005,City Bank Chandigarh Branch,Payment,3446.06
+4049-4817-5506-6811,20240324,510-84-7929,Diya,,Yadav,BR001,City Bank Ahmedabad Branch,Purchase,2188.76
+4336-2605-2257-4847,20240225,758-61-9941,Neha,,Patel,BR005,City Bank Chandigarh Branch,Payment,885.69
+4673-6662-4959-7738,20240325,895-58-1979,Aryan,,Shah,BR004,City Bank Lucknow Branch,Refund,-79.6
+5900-1710-2961-3075,20240311,698-34-6098,Zara,,Dubey,BR003,City Bank Kolkata Branch,Purchase,7395.45
+4667-4972-9540-4022,20240110,468-23-3598,Rajesh,,Yadav,BR001,City Bank Ahmedabad Branch,Purchase,4172.69
+5438-9042-9882-2704,20240131,573-94-1864,Aryan,,Reddy,BR005,City Bank Chandigarh Branch,Cash Advance,307.24
+4259-9554-7078-6179,20240310,298-75-6844,Kabir,,Chauhan,BR004,City Bank Lucknow Branch,Payment,1273.42
+5113-3622-2322-9720,20240323,877-60-3381,Aryan,,Saha,BR003,City Bank Kolkata Branch,Purchase,2357.84
+5300-8184-4306-4565,20240221,585-58-3198,Advik,,Naidu,BR004,City Bank Lucknow Branch,Payment,953.72
+4174-3337-8288-7689,20240126,242-94-9001,Rahul,,Mehta,BR005,City Bank Chandigarh Branch,Payment,704.71
+5166-6438-7331-2102,20240331,933-70-9396,Sanjay,Kumar,Dubey,BR001,City Bank Ahmedabad Branch,Payment,4581.56
+4685-5050-2949-9890,20240318,299-43-4741,Anaya,,Reddy,BR003,City Bank Kolkata Branch,Refund,-23.39
+5900-1710-2961-3075,20240201,698-34-6098,Zara,,Dubey,BR004,City Bank Lucknow Branch,Purchase,2557.89
+5619-4454-6615-9941,20240102,734-25-9986,Ishan,,Khan,BR002,City Bank Pune Branch,Payment,3087.25
+5559-8963-8601-6164,20240108,481-57-5386,Rajesh,,Reddy,BR001,City Bank Ahmedabad Branch,Payment,1790.03
+5113-3622-2322-9720,20240227,877-60-3381,Aryan,,Saha,BR003,City Bank Kolkata Branch,Cash Advance,9913.34
+4259-9554-7078-6179,20240117,298-75-6844,Kabir,,Chauhan,BR001,City Bank Ahmedabad Branch,Payment,4230.31
+5655-4624-4801-4639,20240204,601-72-3299,Aryan,,Chauhan,BR005,City Bank Chandigarh Branch,Payment,4362.43
+4366-4762-5840-1276,20240306,767-26-7789,Anaya,,Singh,BR002,City Bank Pune Branch,Refund,-95.78
+5786-5888-9981-2402,20240125,624-36-3384,Vivaan,,Mehta,BR004,City Bank Lucknow Branch,Refund,-53.61
+5964-5270-2972-1374,20240206,483-10-4262,Meena,Kumar,Mehta,BR004,City Bank Lucknow Branch,Purchase,9859.14
+5393-3196-6827-4442,20240218,975-56-3188,Vivaan,Singh,Khan,BR002,City Bank Pune Branch,Cash Advance,5615.22
+5438-9042-9882-2704,20240129,573-94-1864,Aryan,,Reddy,BR002,City Bank Pune Branch,Refund,-84.26
+4276-4596-9633-9570,20240315,641-51-5545,Rohan,Kumar,Goswami,BR005,City Bank Chandigarh Branch,Refund,-95.02
+5434-9244-3383-4325,20240116,470-21-7858,Meena,,Jain,BR003,City Bank Kolkata Branch,Refund,-94.27
+5434-9244-3383-4325,20240330,470-21-7858,Meena,,Jain,BR002,City Bank Pune Branch,Cash Advance,7277.61
+5131-8902-1536-5426,20240301,495-52-3530,Sneha,Devi,Sharma,BR005,City Bank Chandigarh Branch,Refund,-60.45
+4159-1317-3665-4809,20240121,305-89-4303,Vikram,,Pillai,BR002,City Bank Pune Branch,Refund,-22.99
+4049-7425-2176-8312,20240326,731-81-5494,Rohan,,Jain,BR005,City Bank Chandigarh Branch,Payment,1208.8
+5166-6438-7331-2102,20240306,933-70-9396,Sanjay,Kumar,Dubey,BR005,City Bank Chandigarh Branch,Payment,4472.11
+5619-4454-6615-9941,20240217,734-25-9986,Ishan,,Khan,BR005,City Bank Chandigarh Branch,Payment,1130.57
+4862-2649-4500-9855,20240126,870-31-1580,Ishan,,Singh,BR001,City Bank Ahmedabad Branch,Cash Advance,9471.09
+5218-2917-2089-5213,20240229,279-18-4877,Sanjay,,Dubey,BR004,City Bank Lucknow Branch,Cash Advance,980.4
+4818-8684-4912-5175,20240321,814-45-2843,Sneha,,Shah,BR004,City Bank Lucknow Branch,Purchase,3032.54
+5786-5888-9981-2402,20240329,624-36-3384,Vivaan,,Mehta,BR005,City Bank Chandigarh Branch,Purchase,3587.67
+4620-6298-9668-4847,20240123,891-85-5245,Pooja,Rao,Patel,BR001,City Bank Ahmedabad Branch,Payment,1296.69
+4360-9579-1247-6499,20240303,461-82-6141,Reyansh,,Yadav,BR001,City Bank Ahmedabad Branch,Purchase,6561.15
+5964-5270-2972-1374,20240118,483-10-4262,Meena,Kumar,Mehta,BR005,City Bank Chandigarh Branch,Payment,1772.32
+5619-4454-6615-9941,20240206,734-25-9986,Ishan,,Khan,BR003,City Bank Kolkata Branch,Refund,-64.68
+5251-5319-6783-9886,20240111,326-33-7567,Aditi,,Gupta,BR001,City Bank Ahmedabad Branch,Payment,894.34
+5494-6640-8157-8650,20240117,340-43-3938,Aryan,Kumar,Chauhan,BR003,City Bank Kolkata Branch,Payment,3815.86
+5251-5319-6783-9886,20240126,326-33-7567,Aditi,,Gupta,BR005,City Bank Chandigarh Branch,Cash Advance,6939.06
+5745-4405-3950-3472,20240315,645-61-5209,Kiara,Kumar,Naidu,BR001,City Bank Ahmedabad Branch,Cash Advance,6997.38
+4667-4972-9540-4022,20240205,468-23-3598,Rajesh,,Yadav,BR003,City Bank Kolkata Branch,Purchase,6173.79
+5251-5319-6783-9886,20240226,326-33-7567,Aditi,,Gupta,BR005,City Bank Chandigarh Branch,Refund,-89.99
+4276-4596-9633-9570,20240331,641-51-5545,Rohan,Kumar,Goswami,BR003,City Bank Kolkata Branch,Payment,3584.61
+5740-6361-3997-3889,20240107,825-69-9294,Ishan,,Reddy,BR004,City Bank Lucknow Branch,Purchase,6322.98
+4685-5050-2949-9890,20240331,299-43-4741,Anaya,,Reddy,BR004,City Bank Lucknow Branch,Purchase,1731.25
+4862-2649-4500-9855,20240113,870-31-1580,Ishan,,Singh,BR003,City Bank Kolkata Branch,Cash Advance,5041.76
+4392-7998-9720-5587,20240108,731-45-3439,Rohan,,Tiwari,BR004,City Bank Lucknow Branch,Cash Advance,5985.68
+4159-1317-3665-4809,20240118,305-89-4303,Vikram,,Pillai,BR003,City Bank Kolkata Branch,Purchase,4962.71
+5131-8902-1536-5426,20240113,495-52-3530,Sneha,Devi,Sharma,BR005,City Bank Chandigarh Branch,Purchase,8004.07
+4259-9554-7078-6179,20240130,298-75-6844,Kabir,,Chauhan,BR004,City Bank Lucknow Branch,Cash Advance,2349.35
+5438-9042-9882-2704,20240202,573-94-1864,Aryan,,Reddy,BR002,City Bank Pune Branch,Payment,4030.41
+4174-3337-8288-7689,20240313,242-94-9001,Rahul,,Mehta,BR001,City Bank Ahmedabad Branch,Refund,-99.27
+4392-7998-9720-5587,20240314,731-45-3439,Rohan,,Tiwari,BR005,City Bank Chandigarh Branch,Cash Advance,6168.78
+5950-6241-6175-5830,20240325,851-66-6199,Pooja,,Dubey,BR002,City Bank Pune Branch,Purchase,1893.05
+4366-4762-5840-1276,20240301,767-26-7789,Anaya,,Singh,BR004,City Bank Lucknow Branch,Refund,-86.7
+5619-4454-6615-9941,20240203,734-25-9986,Ishan,,Khan,BR005,City Bank Chandigarh Branch,Purchase,6680.71
+4049-4817-5506-6811,20240103,510-84-7929,Diya,,Yadav,BR003,City Bank Kolkata Branch,Cash Advance,3986.4
+4713-1688-3309-2421,20240307,591-16-4608,Aryan,Singh,Verma,BR001,City Bank Ahmedabad Branch,Payment,546.32
+4366-4762-5840-1276,20240219,767-26-7789,Anaya,,Singh,BR003,City Bank Kolkata Branch,Cash Advance,9021.79
+4667-4972-9540-4022,20240127,468-23-3598,Rajesh,,Yadav,BR003,City Bank Kolkata Branch,Cash Advance,1089.17
